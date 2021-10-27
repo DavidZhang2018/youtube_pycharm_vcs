@@ -14,5 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("asdasds")
     print(password)
-    print(2+4)
+    print(2-4)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
